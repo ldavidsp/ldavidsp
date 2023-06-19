@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Solorzano</h1>
-<h3 align="center">Sr Drupal Developer from Nicaragua.</h3>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img
-        src="https://github-profile-trophy.vercel.app/?username=ldavidsp" alt="ldavidsp"/>
-    </a>
-</p>
+<h3 align="center">Full-Stack Developer from Nicaragua.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -189,20 +182,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40" style="max-width: 100%;">
     </a>
-</p>
-
-
-<h3 align="left">GitHub Analytics:</h3>
-<p>
-    <img align="left"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=ldavidsp&show_icons=true&locale=en&layout=compact"
-        alt="ldavidsp"/>
-</p>
-
-<p>&nbsp;
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=ldavidsp&show_icons=true&locale=en"
-         alt="ldavidsp"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldavidsp&" alt="ldavidsp"/></p>
